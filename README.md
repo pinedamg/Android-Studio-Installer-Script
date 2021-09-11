@@ -33,7 +33,7 @@ Shell script to Install JDK8, Android Studio also create Launcher
 
 - Download the File
 
-```curl -o StudioInstaller.sh https://raw.githubusercontent.com/letsfoss/Android-Studio-Installer-Script/master/StudioInstaller.sh```
+```curl -o StudioInstaller.sh https://raw.githubusercontent.com/pinedamg/Android-Studio-Installer-Script/master/StudioInstaller.sh```
 
 - Make it as Executable
 
@@ -50,7 +50,7 @@ Shell script to Install JDK8, Android Studio also create Launcher
 
 - Clone the Repo <br>
 
-```git clone https://github.com/letsfoss/Android-Studio-Installer-Script.git```
+```git clone https://github.com/pinedamg/Android-Studio-Installer-Script.git```
 
 
 - Make Changes <br>
